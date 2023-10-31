@@ -36,5 +36,5 @@
 &nbsp;&nbsp;&nbsp;
  
 - Just a lover coffee :coffee: and lovely person :cupid: :moyai: :moyai: :moyai:
-- I'm currently working about frontend web app development in thailand. :earth_asia:
-- 4 month, that length of time I already have practice about coding :computer: to change my career path from material-en.. and I got a job. :tada:
+- I'm currently working about frontend web app development :computer: in thailand. :earth_asia:
+- 4 month, that length of time I already have practice about coding to change my career path from material-en.. and I got a job. :tada:
