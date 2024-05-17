@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
- :heart: :yellow_heart: sinb27 Stacks && Tools  :green_heart: :blue_heart:
+ :heart: :yellow_heart: ranb27 Stacks && Tools  :green_heart: :blue_heart:
   </h1>
 </div>
 
