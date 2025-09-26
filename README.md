@@ -4,7 +4,7 @@
 # ✨ Hi, I'm **Benz** (Wiranphat) ✨  
 💖 aka **ranb27** (because my birthday is on the 27th!)  
 
-<img src="https://github.com/user-attachments/assets/02769e45-bc69-415b-9266-13c45c8ef441" width="200" alt="my aesthetic" />
+<img src="https://github.com/user-attachments/assets/02769e45-bc69-415b-9266-13c45c8ef441" alt="my aesthetic" />
 
 </div>
 
