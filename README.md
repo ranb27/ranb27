@@ -30,15 +30,6 @@
 
 </div>
 
----
-
-## 🌟 Cute Vibes Only
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/952cab2b-49f2-40d3-85d0-aa9059b103e1" alt="del spam aesth" />
-</div>
-
----
-
 ## 🐾 GitHub Stats
 
 <div align="center">
