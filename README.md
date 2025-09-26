@@ -34,7 +34,7 @@
 
 ## 🌟 Cute Vibes Only
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="200" alt="cutegif" />
+  <img src="[https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d](https://github.com/user-attachments/assets/74972d55-da53-44d1-af19-653288ea2959)" alt="cutegif" />
 </div>
 
 ---
@@ -56,6 +56,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/ranb27)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/wiranphat-moolmee-509535304)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/benz.moolmee.2025/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/bwrp.m/)  
 
 </div>
 
@@ -65,6 +66,5 @@
 
 ✨ _Code with heart, build with dreams_ ✨  
 
-<img src="https://static.vecteezy.com/system/resources/previews/008/470/225/non_2x/heart-anime-cute-character-cartoon-model-emotion-illustration-clipart-drawing-kawaii-manga-design-idea-art-free-png.png" width="120" alt="anime heart" />
-<img src="https://www.nicepng.com/png/full/873-8736197_kawaii-sticker-png-tumblr-sticker-cute.png" width="150" alt="kawaii" />
+<img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="200" alt="cutegif" />
 </div>
