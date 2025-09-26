@@ -1,39 +1,71 @@
+<!-- Profile Banner -->
+<div align="center">
+
+# ✨ Hi, I'm **Benz** (Wiranphat) ✨  
+💖 aka **ranb27** (because my birthday is on the 27th!)  
+
+<img src="https://media.tenor.com/vfUMm4t0T-sAAAAi/cute-anime-girl.gif" width="180" alt="cute anime" />
+
+</div>
+
 ---
 
-### :sparkles: Hi :heartbeat:
+## 🌸 About Me
+- 🎀 Fullstack Web App Developer  
+- 🌈 Love mixing **tech + cuteness** ✨  
+- 💻 Building apps with **Next.js**, **Bun + Elysia**, **Go + Fiber**, **PostgreSQL**  
+- 🐰 Into anime aesthetics + cozy vibes  
+- ☕ Coffee-powered coder  
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h1>
- :heart: :yellow_heart: ranb27 Stacks && Tools  :green_heart: :blue_heart:
-  </h1>
+
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Bun](https://skillicons.dev/icons?i=bun) | ![Postgres](https://skillicons.dev/icons?i=postgres) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![React](https://skillicons.dev/icons?i=react) | ![Go](https://skillicons.dev/icons?i=go) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Git](https://skillicons.dev/icons?i=git) |
+
 </div>
 
-&nbsp;&nbsp;&nbsp;
+---
 
-<div align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" /> -->
-</div>          
-
-&nbsp;&nbsp;&nbsp;
-
-<div align="center" >
-  <h2>myStats</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sinb27" alt="GitHub Streak" /></a>
+## 🌟 Cute Vibes Only
+<div align="center">
+  <img src="https://media.tenor.com/-7jV2cxN3jEAAAAi/chibi-anime.gif" width="150" alt="cute girl coding" />
+  <img src="https://media.tenor.com/Izh7gG8aDhoAAAAi/kawaii.gif" width="150" alt="kawaii" />
 </div>
 
-&nbsp;&nbsp;&nbsp;
- 
-- Just a lover coffee :coffee: and lovely person :cupid: :moyai: :moyai: :moyai:
-- I'm currently working about frontend web app development :computer: in thailand. :earth_asia:
+---
+
+## 🐾 GitHub Stats
+
+<div align="center">
+
+![Benz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranb27&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranb27&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💌 Let's Connect  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/ranb27)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/)  
+
+</div>
+
+---
+
+<div align="center">
+
+✨ _Code with heart, build with dreams_ ✨  
+
+<img src="https://media.tenor.com/5J3jJH6Rrs8AAAAi/cute-anime-anime.gif" width="120" alt="anime waving" />
+
+</div>
