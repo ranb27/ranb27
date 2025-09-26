@@ -56,5 +56,7 @@
 
 ✨ _Code with heart, build with dreams_ ✨  
 
-<img src="https://github.com/user-attachments/assets/524691d0-8794-4f64-95b5-5b0c4f0012cb" width="180" alt="cutegif" />
+<img src="https://github.com/user-attachments/assets/6b911a0d-240f-49ba-b9b2-c02bb9a7d563" width="180" alt="cutegif" />
+<img src="https://github.com/user-attachments/assets/2e8ec7ed-1ed5-4699-a6c6-c2393c114b67" width="180" alt="pinkmilk" />
+<img src="https://github.com/user-attachments/assets/1ae7247c-dfdb-42bd-9f02-55c1d2610c84" width="180" alt="dance" />
 </div>
