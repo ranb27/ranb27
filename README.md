@@ -55,8 +55,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/ranb27)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](in/wiranphat-moolmee-509535304)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge)](profile.php?id=100011373668186)  
 
 </div>
 
@@ -66,6 +66,6 @@
 
 ✨ _Code with heart, build with dreams_ ✨  
 
-<img src="https://media.tenor.com/5J3jJH6Rrs8AAAAi/cute-anime-anime.gif" width="120" alt="anime waving" />
+<img src="[https://media.tenor.com/5J3jJH6Rrs8AAAAi/cute-anime-anime.gif](https://kr.pinterest.com/pin/660692207866127647/)" width="120" alt="anime waving" />
 
 </div>
