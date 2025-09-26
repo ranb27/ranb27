@@ -34,7 +34,7 @@
 
 ## 🌟 Cute Vibes Only
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/74972d55-da53-44d1-af19-653288ea2959" alt="rainbow bunny" />
+  <img src="https://github.com/user-attachments/assets/952cab2b-49f2-40d3-85d0-aa9059b103e1" alt="del spam aesth" />
 </div>
 
 ---
