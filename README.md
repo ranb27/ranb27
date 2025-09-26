@@ -4,7 +4,7 @@
 # ✨ Hi, I'm **Benz** (Wiranphat) ✨  
 💖 aka **ranb27** (because my birthday is on the 27th!)  
 
-<img src="https://github.com/user-attachments/assets/02769e45-bc69-415b-9266-13c45c8ef441" alt="my aesthetic" style="border-radius:16px;" />
+<img src="https://github.com/user-attachments/assets/02769e45-bc69-415b-9266-13c45c8ef441" alt="my aesthetic" />
 
 </div>
 
@@ -56,5 +56,5 @@
 
 ✨ _Code with heart, build with dreams_ ✨  
 
-<img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="180" alt="cutegif" style="border-radius:24px;" />
+<img src="https://github.com/user-attachments/assets/524691d0-8794-4f64-95b5-5b0c4f0012cb" width="180" alt="cutegif" />
 </div>
