@@ -4,7 +4,7 @@
 # ✨ Hi, I'm **Benz** (Wiranphat) ✨  
 💖 aka **ranb27** (because my birthday is on the 27th!)  
 
-<img src="https://media.tenor.com/vfUMm4t0T-sAAAAi/cute-anime-girl.gif" width="180" alt="cute anime" />
+<img src="https://github.com/user-attachments/assets/02769e45-bc69-415b-9266-13c45c8ef441" width="200" alt="my aesthetic" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## 🌟 Cute Vibes Only
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d](https://github.com/user-attachments/assets/74972d55-da53-44d1-af19-653288ea2959)" alt="cutegif" />
+  <img src="https://github.com/user-attachments/assets/74972d55-da53-44d1-af19-653288ea2959" alt="rainbow bunny" />
 </div>
 
 ---
@@ -66,5 +66,5 @@
 
 ✨ _Code with heart, build with dreams_ ✨  
 
-<img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="200" alt="cutegif" />
+<img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="180" alt="cutegif" />
 </div>
