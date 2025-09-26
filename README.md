@@ -34,9 +34,7 @@
 
 ## 🌟 Cute Vibes Only
 <div align="center">
-  ![cutegif](https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d)
-
-  <img src="https://www.nicepng.com/png/full/873-8736197_kawaii-sticker-png-tumblr-sticker-cute.png" width="150" alt="kawaii" />
+  <img src="https://github.com/user-attachments/assets/50e449b8-f088-45a7-85ab-ca75db979a7d" width="200" alt="cutegif" />
 </div>
 
 ---
@@ -68,5 +66,5 @@
 ✨ _Code with heart, build with dreams_ ✨  
 
 <img src="https://static.vecteezy.com/system/resources/previews/008/470/225/non_2x/heart-anime-cute-character-cartoon-model-emotion-illustration-clipart-drawing-kawaii-manga-design-idea-art-free-png.png" width="120" alt="anime heart" />
-
+<img src="https://www.nicepng.com/png/full/873-8736197_kawaii-sticker-png-tumblr-sticker-cute.png" width="150" alt="kawaii" />
 </div>
