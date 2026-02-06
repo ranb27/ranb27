@@ -30,14 +30,6 @@
 
 </div>
 
-## 🐾 GitHub Stats
-
-<div align="center">
-
-![Benz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranb27&show_icons=true&theme=tokyonight&hide_border=true)  
-
-</div>
-
 ---
 
 ## 💌 Let's Connect  
